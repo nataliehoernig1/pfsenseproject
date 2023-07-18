@@ -1,6 +1,6 @@
 <h1>Final Project: PfSense Firewall Configuration Demonstration Video</h1>
 
- ### [Video Demonstration](https://drive.google.com/drive/u/0/folders/1275wzVMKcPnYP_uuajN-a6Oepqbaprct)
+ ### [Video Demonstration](https://drive.google.com/file/d/1bcqGCB0KK-U4kqeQ-cWInySd7fyfdmq3/view?usp=sharing)
 
 <h2>Description</h2>
 This was a final project I completed for my Firewalls and Network Security course. We were required to demonstrate how you would configure certain settings within PfSense. 
